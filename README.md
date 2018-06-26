@@ -26,14 +26,14 @@ The SwingHeil Android app project uses iOS language and Alamofire, SwiftyJSON li
 ## Development RoadMap
 
 - [x] initial setup swift iOS project
-- [  ] add Alamofire, SwiftyJSON library
-- [  ] display event list from swingheil RESTFul API server
-- [  ] add firebase login feature
-- [  ] add pull down to load function
-- [  ] add ballroom info
-- [  ] add meet-up info
-- [  ] add GPS navigation feature
-- [  ] add SNS share feature
+- [ ] add Alamofire, SwiftyJSON library
+- [ ] display event list from swingheil RESTFul API server
+- [ ] add firebase login feature
+- [ ] add pull down to load function
+- [ ] add ballroom info
+- [ ] add meet-up info
+- [ ] add GPS navigation feature
+- [ ] add SNS share feature
 
 ## Version 1
 The first version of SwingHeil app was built with Java. It was on Google Play Store, but it not running now.
@@ -50,4 +50,3 @@ license and is available for free.
 * [Facebook page](https://www.facebook.com/swingheilapp)
 * [Issue tracker](https://github.com/tomparkpro/swingheil-ios-app/issues)
 * [Source code](https://github.com/tomparkpro/swingheil-ios-app)
--app)
